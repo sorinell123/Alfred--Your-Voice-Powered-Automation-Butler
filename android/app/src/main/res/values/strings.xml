@@ -1,0 +1,6 @@
+<!-- android/app/src/main/res/values/strings.xml -->
+
+<resources>
+    <string name="app_name">Alfred</string>
+    <string name="accessibility_service_description">Alfred needs this permission to record and playback your actions on the screen.</string>
+</resources>
